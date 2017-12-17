@@ -2,9 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World!");
-        System.out.println("Second commit");
-        System.out.println("Grustno");
-        System.out.println("Sovsem grustno");
+        System.out.println("task 3");
     }
 }
